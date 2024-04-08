@@ -1,1 +1,1 @@
-web: python SAIIMXD.py
+web: python PRINCE.py
